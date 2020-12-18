@@ -5,8 +5,8 @@
 -->
 - 🔭  Role: Developer Relations at ConsenSys
 - 🛠  Learning: Rust // Go
-- 🤹‍ Familiar with: React // Solidity 
-- 🎯  Currently working on: [BUIDL](https://www.meetup.com/pro/BUIDL/) // [One million Developers](https://onemilliondevs.com/) // [MetaMask](https://metamask.io/) // [ConsenSys Academy](https://learn.consensys.net/index) // [EthBuilders](https://www.meetup.com/ethbuilders/)
+- 🤹‍ Familiar with: React // Solidity // DeFi 
+- 🎯  Currently working on: [EthBuilders](https://www.meetup.com/ethbuilders/) // [BUIDL](https://www.meetup.com/pro/BUIDL/) // [AirSwap](https://github.com/airswap) // [MetaMask](https://metamask.io/) // [ConsenSys Academy](https://learn.consensys.net/index)
 - 🏓  I’m looking to collaborate on: Ecosystem Growth Engines // Web3 Learning material 
 - 🔮  I’m looking for: Developers // Community Managers // DeFi Degens
 - 💬  Ask me about: Where you should start learning about Ethereum
