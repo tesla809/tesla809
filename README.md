@@ -5,12 +5,20 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭  Role: Developer Relations at ConsenSys
+- 🛠  Learning: Rust // Go
+- 🤹‍ Familiar with: React // Solidity 
+- 🎯  Currently working on: [BUIDL](https://www.meetup.com/pro/BUIDL/) // [One million Developers](https://onemilliondevs.com/) // [MetaMask](https://metamask.io/) // [ConsenSys Academy](https://learn.consensys.net/index) // [EthBuilders](https://www.meetup.com/ethbuilders/)
+- 🏓  I’m looking to collaborate on: Ecosystem Growth Engines // Web3 Learning material 
+- 🔮  I’m looking for: Developers // Community Managers // Designers 
+- 💬  Ask me about: Where you should start learning about Ethereum
+- 📫  Discord: CryptoHamilton#0473
+- 📫  Twitter: [@tesla809](https://twitter.com/tesla809)
+- 📫  LinkedIn: [Anthony](https://www.linkedin.com/in/anthonyalbertorio/)
+
+- ☕  Fun fact: 
+
+// ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=tesla809&show_icons=true&theme=tokyonight)
+
+
 -->
