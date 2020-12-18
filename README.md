@@ -5,11 +5,11 @@
 -->
 - 🔭  Role: Developer Relations at ConsenSys
 - 🛠  Learning: Rust // Go
-- 🤹‍ Familiar with: React // Solidity // DeFi 
+- 🤹‍ Familiar with: React // JavaScript // Solidity // DeFi 
 - 🎯  Currently working on: [EthBuilders](https://www.meetup.com/ethbuilders/) // [BUIDL](https://www.meetup.com/pro/BUIDL/) // [AirSwap](https://github.com/airswap) // [MetaMask](https://metamask.io/) // [ConsenSys Academy](https://learn.consensys.net/index)
 - 🏓  I’m looking to collaborate on: DeFi Protocols // Ecosystem Growth Engines // Web3 Learning material 
 - 🔮  I’m looking for: Developers // Community Managers // DeFi Degens
-- 💬  Ask me about: Where you should start learning about Ethereum
+- 💬  Ask me about: Learning about Ethereum
 - 📫  Discord: CryptoHamilton#0473
 - 📫  Twitter: [@tesla809](https://twitter.com/tesla809)
 - 📫  LinkedIn: [Anthony](https://www.linkedin.com/in/anthonyalbertorio/)
