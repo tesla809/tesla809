@@ -16,5 +16,6 @@
 
 ![Tesla809s's github stats](https://github-readme-stats.vercel.app/api?username=tesla809&show_icons=true&theme=tokyonight)
 
-https://visitor-badge.glitch.me/badge?page_id=tesla809
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=tesla809)
 
