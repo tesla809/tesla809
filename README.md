@@ -4,10 +4,11 @@
 **tesla809/tesla809** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 - 🔭  Role: Developer Relations at ConsenSys
-- 🛠  Learning: Rust // Go
+- 🛠  Learning: Solidity // TypeScript // Rust
 - 🤹‍ Familiar with: React // JavaScript // Solidity // DeFi 
-- 🎯  Currently working on: [EthBuilders](https://www.meetup.com/ethbuilders/) // [BUIDL](https://www.meetup.com/pro/BUIDL/) // [AirSwap](https://github.com/airswap) // [MetaMask](https://metamask.io/) // [ConsenSys Academy](https://learn.consensys.net/index)
-- 🏓  I’m looking to collaborate on: DeFi Protocols // Ecosystem Growth Engines // Web3 Learning material 
+- 🎯  Currently working on: [MetaMask](https://metamask.io/) // [ConsenSys Academy](https://learn.consensys.net/index) // [EthBuilders](https://www.meetup.com/ethbuilders/) // [BUIDL](https://www.meetup.com/pro/BUIDL/) // [AirSwap](https://github.com/airswap)
+- 🏗️  Building: [Web3cryptodev.com](https://www.web3cryptodev.com/) // [ConsenSys Academy](https://github.com/ConsenSys-Academy/Blockchain-Developer-Bootcamp)
+- 🏓  I’m looking to collaborate on: Ecosystem Growth Engines // Web3 Learning material // DeFi Protocols
 - 🔮  I’m looking for: Developers // Community Managers // DeFi Degens
 - 💬  Ask me about: Learning about Ethereum
 - 📫  Discord: CryptoHamilton#0473
