@@ -13,7 +13,7 @@
 - 🔮  I’m looking for: Developers // Community Managers // DeFi Degens
 - 💬  Ask me about: Learning about Ethereum
 - 📫  Discord: CryptoHamilton#0473
-- 📫  Twitter: [@tesla809](https://twitter.com/0xAlbertorio)
+- 📫  Twitter: [@0xAlbertorio](https://twitter.com/0xAlbertorio)
 - 📫  LinkedIn: [Anthony](https://www.linkedin.com/in/anthonyalbertorio/)
 
 ![Tesla809s's github stats](https://github-readme-stats.vercel.app/api?username=tesla809&show_icons=true&theme=tokyonight)
