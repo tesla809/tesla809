@@ -5,7 +5,7 @@
 -->
 - 🔭  Role: Head of Developer Relations at Matter Labs
 - 🛠  Stack: Solidity // TypeScript // JavaScript // React
-- 📖  Learning: ZkEVM // Advanced Solidity // Yul // Rust
+- 📖  Learning: zkEVM // Advanced Solidity // Yul // Rust
 - 🤹‍ Familiar with: DeFi // EVM 
 - 🎯  Currently working on: [MetaMask](https://metamask.io/) // [ConsenSys Academy](https://learn.consensys.net/index) // [EthBuilders](https://www.meetup.com/ethbuilders/) // [BUIDL](https://www.meetup.com/pro/BUIDL/) // [AirSwap](https://github.com/airswap)
 - 🏗️  Building: [Web3cryptodev.com](https://www.web3cryptodev.com/) // [ConsenSys Academy](https://github.com/ConsenSys-Academy/Blockchain-Developer-Bootcamp)
