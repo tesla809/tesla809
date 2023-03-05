@@ -3,7 +3,7 @@
 <!--
 **tesla809/tesla809** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-- 🔭  Role: Head of Developer Relations at Matter Labs
+- 🔭  Role: Co-Founder at Stealth
 - 🛠  Stack: Solidity // TypeScript // JavaScript // React
 - 📖  Learning: zkEVM // Advanced Solidity // Yul // Rust
 - 🤹‍ Familiar with: DeFi // EVM 
