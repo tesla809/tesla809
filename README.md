@@ -8,7 +8,7 @@
 - 📖  Learning: zkEVM // Advanced Solidity // Yul // Rust
 - 🤹‍ Familiar with: DeFi // EVM 
 - 🎯  Currently working on: [MetaMask](https://metamask.io/) // [ConsenSys Academy](https://learn.consensys.net/index) // [EthBuilders](https://www.meetup.com/ethbuilders/) // [BUIDL](https://www.meetup.com/pro/BUIDL/) // [AirSwap](https://github.com/airswap)
-- 🏗️  Building: [Web3cryptodev.com](https://www.web3cryptodev.com/)
+- 🏗️  Building: [web3Manifold.dev](https://www.web3manifold.dev/)
 - 🏗️  Formerly help build: [ConsenSys Academy](https://github.com/ConsenSys-Academy/Blockchain-Developer-Bootcamp)
 - 🏓  I’m looking to collaborate on: Ecosystem Growth Engines // Web3 Learning material // DeFi Protocols
 - 🔮  I’m looking for: Developers // Community Managers // DeFi Degens
