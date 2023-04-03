@@ -15,7 +15,7 @@
 - 💬  Ask me about: Learning about Ethereum
 - 📫  Discord: CryptoHamilton#0473
 - 📫  Twitter: [@0xAlbertorio](https://twitter.com/0xAlbertorio)
-- 📫  LinkedIn: [Anthony](https://www.linkedin.com/in/anthonyalbertorio/)
+- 📫  LinkedIn: [Anthony Albertorio](https://www.linkedin.com/in/anthonyalbertorio/)
 
 ![Tesla809s's github stats](https://github-readme-stats.vercel.app/api?username=tesla809&show_icons=true&theme=tokyonight)
 
