@@ -3,7 +3,7 @@
 <!--
 **tesla809/tesla809** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-- 🔭  Role: Co-Founder at Stealth
+- 🔭  Role: Founder at Web3Manifold - Streamlined Ethereum Dev Education
 - 🛠  Stack: Solidity // TypeScript // JavaScript // React
 - 📖  Learning: zkEVM // Advanced Solidity // Yul // Rust
 - 🤹‍ Familiar with: DeFi // EVM 
