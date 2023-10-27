@@ -13,7 +13,7 @@
 - 🏓  I’m looking to collaborate on: Ecosystem Growth Engines // Web3 Learning material // DeFi Protocols
 - 🔮  I’m looking for: Developers // Community Managers // DeFi Degens
 - 💬  Ask me about: Learning about Ethereum
-- 📫  Discord: CryptoHamilton#01337
+- 📫  Discord: CryptoHamilton#1337
 - 📫  Twitter: [@0xAlbertorio](https://twitter.com/0xAlbertorio)
 - 📫  LinkedIn: [Anthony Albertorio](https://www.linkedin.com/in/anthonyalbertorio/)
 
